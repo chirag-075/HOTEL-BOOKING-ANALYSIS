@@ -14,3 +14,11 @@ This project involves a comprehensive analysis of hotel booking data, focusing o
 - Price optimization strategies
 
 The goal is to provide insights that can enhance the customer experience and optimize revenue management.
+
+
+### Analysis Techniques-
+The following analysis techniques were employed in this project:
+
+Exploratory Data Analysis (EDA)
+Data Visualization (using Matplotlib and Seaborn)
+Statistical Analysis (using Pandas and SciPy)
